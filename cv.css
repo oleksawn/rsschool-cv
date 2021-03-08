@@ -167,6 +167,7 @@ header p {
 .content .portfolio code {
   display: block;
   width: 500px;
+  word-wrap: break-word;
   font-size: 14px;
   background-color: #ebe7e4;
 }
