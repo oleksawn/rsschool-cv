@@ -1,16 +1,16 @@
 @font-face{
   font-family: "Grotesk";
-  src: url("NiveauGrotesk-Bold.otf");
+  src: url("fonts/NiveauGrotesk-Bold.otf");
   font-weight: bold;
 }
 @font-face{
   font-family: "Grotesk";
-  src: url("NiveauGrotesk-Medium.ttf");
+  src: url("fonts/NiveauGrotesk-Medium.ttf");
   font-weight: 500;
 }
 @font-face{
   font-family: "Corporate";
-  src: url("CorporateS-Bold.otf");
+  src: url("fonts/CorporateS-Bold.otf");
   font-weight: bold;
 }
 
