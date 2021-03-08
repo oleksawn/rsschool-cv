@@ -2,7 +2,7 @@
 Junior Frontend Developer
 
 ## PROFILE
-date of birth: 16 nov 1995 (*age: 25*)
+date of birth: 16 nov 1995 (*age: 25*)  
 employment status: *not empoyed*                    
 I have flexible *availability to relocate*.  
 
@@ -24,7 +24,7 @@ March 2021 - August 2021
 * Git and github                        
 
 ## EXPERIENCE                                                                             
-[github profile](https://github.com/oleksawn) 
+[github profile](https://github.com/oleksawn)   
 [codewars profile](https://www.codewars.com/users/oleksawn)
 
 ```
